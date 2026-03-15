@@ -137,25 +137,19 @@ The automation script will run and verify the registration process.
 
 ### Registration Form Interface
 
-![Registration Form](screenshots/form-ui.jpg)
+![Registration Form](screenshots/form-ui_01.png)
 
 ---
 
 ### Cypress Automation Script
 
-![Automation Script](screenshots/automation-script.jpg)
+![Automation Script](screenshots/form_ui_02.png)
 
 ---
 
-### Successful Form Submission
-
-![Success Message](screenshots/success-message.jpg)
 
 ---
 
-### Cypress Test Execution
-
-![Test Execution](screenshots/test-execution.jpg)
 
 ---
 
