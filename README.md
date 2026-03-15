@@ -137,7 +137,7 @@ The automation script will run and verify the registration process.
 
 ### Registration Form Interface
 
-![Registration Form](screenshots/form-ui_01.png)
+![Registration Form](screenshots/form_ui_01.png)
 
 ---
 
