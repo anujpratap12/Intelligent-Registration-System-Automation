@@ -1,4 +1,4 @@
-# Frugal Assignment
+# Intelligent-Registration-System-Automation
 
 A small, efficient project demonstrating [your project purpose here, e.g., data analysis, machine learning, or a web app].
 
